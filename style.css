@@ -1,0 +1,30 @@
+body {
+    background-color: turquoise;
+}
+
+.quadrato { 
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+}
+
+.normal { 
+    background-color: darkcyan;
+    height: 100%;
+}
+
+.multiple-3 {
+    background-color: yellow;
+    height: 100%;
+}
+
+.multiple-5 {
+    background-color: lightblue;
+    height: 100%;
+}
+
+.multiple-15 {
+    background-color: pink;
+    height: 100%;
+}
