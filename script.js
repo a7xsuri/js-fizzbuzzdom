@@ -27,6 +27,7 @@ const numero = document.createElement('div');
     } 
     
     else {
+        console.log(i);
         numero.setAttribute("class" , "normal");
         numero.innerHTML= i;
     }
